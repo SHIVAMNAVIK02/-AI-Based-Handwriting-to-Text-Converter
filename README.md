@@ -1,4 +1,6 @@
 ## Handwritten Text Recognition with Text Improvement
+## BY - SHIVAM NAVIK
+E-Mail - shivamnavik02@gmail.com
 
 
 ## 📝 Overview
@@ -83,3 +85,5 @@ This project is open-source and available under the MIT License.
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
 Note: For best results, use clear images of handwritten text with good contrast between the text and background.
+
+## By - SHIVAM NAVIK
